@@ -1,0 +1,21 @@
+.background{
+    background-image: url("candi.jpg");
+}
+.judul{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.baris{
+    display:flex;
+    justify-content:center;
+    margin:20px 0;
+   
+}
+h3{
+    text-align:center;
+    color:white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.x{
+    padding:0 50px;
+}
